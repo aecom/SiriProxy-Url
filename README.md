@@ -21,11 +21,7 @@ edit html file to launch iphone app via URL SCHEME
 
 you will need to have some web server i setup on my mac ( any web server will do)
 
- <html>
- <head>
-    <title>IU Webmaster redirect</title>
-    <META http-equiv="refresh" content="0;URL=REMOTE://">
-</html>
+ip.html file
 
 used in the example  apple remote app 
 
