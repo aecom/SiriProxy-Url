@@ -13,6 +13,8 @@ ip.html file
 
 * used in the example  apple remote app 
 
-* this metod solves 2 problems 
-1 launch url wirh siri proxy
-2 launch ipgone ap with siri proxy
+* this metod solves 2 problems
+* 
+1 launch url with siri proxy
+
+2 launch iphone apps with siri proxy
