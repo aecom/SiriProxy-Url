@@ -7,12 +7,12 @@ example.rb
 
 * step 2 edit html file to launch iphone app via URL SCHEME 
 
-you will need to have some web server i setup on my mac ( any web server will do)
+* you will need to have some web server i setup on my mac ( any web server will do)
 
 ip.html file
 
-used in the example  apple remote app 
+* used in the example  apple remote app 
 
-this metod solves 2 problems 
+* this metod solves 2 problems 
 1 launch url wirh siri proxy
 2 launch ipgone ap with siri proxy
